@@ -1,30 +1,23 @@
-🚀 My Portfolio
+# 🚀 My Portfolio
 
--A personal portfolio website built with Next.js to showcase my skills, projects, and experience as a Frontend Developer in a clean and professional way.
+A personal portfolio website built with **Next.js** to showcase my skills, projects, and experience as a **Frontend Developer** in a clean and professional way.
 
-🧠 About
+## 🧠 About
 
--This project presents my personal information, technical skills, and selected projects with a focus on performance, responsiveness, and clean UI.
+This project presents my personal information, technical skills, and selected projects with a focus on performance, responsiveness, and clean UI.  
 It is designed to give recruiters and clients a clear overview of my work.
 
-✨ Features
+## ✨ Features
 
-.Built with Next.js for performance and SEO
+- Built with **Next.js** for performance and SEO
+- Fully responsive (mobile, tablet, desktop)
+- Clean and modern UI
+- Reusable and well-structured components
+- Fast loading and optimized performance
 
-.Fully responsive (mobile, tablet, desktop)
+## 🛠️ Tech Stack
 
-.Clean and modern UI
-
-.Reusable and well-structured components
-
-.Fast loading and optimized performance
-
-🛠️ Tech Stack
-
-.Next.js
-
-.React.js
-
-.Tailwind CSS
-
-.TypeScript / JavaScript
+- Next.js
+- React.js
+- Tailwind CSS
+- TypeScript / JavaScript
